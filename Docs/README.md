@@ -32,7 +32,7 @@ GET  /api/v1/search    ←----------------------------------------------←
 
 - Levantar Kafka
 
-Desde la ruta ...\payments-kafka\Fuentes\payments-kafka:
+Desde la ruta ...\Fuentes\payments-kafka\fuentes::
 
 docker compose up -d
 
