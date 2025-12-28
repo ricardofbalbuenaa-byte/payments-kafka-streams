@@ -1,4 +1,4 @@
-Payments Kafka Streams
+Payments Kafka Streams (Ver Docs/guia-pruebas.md para instrucciones de prueba.)
 
 Sistema de procesamiento de pagos en tiempo real basado en Apache Kafka Streams, desarrollado con Spring Boot 3.2.x y Kafka 3.x.
 
